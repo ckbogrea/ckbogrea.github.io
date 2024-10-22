@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckbogrea.github.io/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/app/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/assets/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/css/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/includes/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/item/ckbogrea.txt.gz
+Sitemap: https://ckbogrea.github.io/src/ckbogrea.txt.gz
